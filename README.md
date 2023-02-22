@@ -1,4 +1,4 @@
--- Be aware this was a university project and cleaninless wasn't my best friend
+-- Be aware this was a university project and cleanliness wasn't my best friend
 
 # Game-Classification
 
