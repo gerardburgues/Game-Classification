@@ -1,3 +1,5 @@
+-- Be aware this was a university project and cleaninless wasn't my best friend
+
 # Game-Classification
 
 Implementing game classification based on unsupervised data
